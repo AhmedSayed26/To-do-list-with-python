@@ -1,5 +1,5 @@
 # This repo created by Ahme Sayed
-# To-Do List with Python
+# To-Do-List with Python
 This is a Python-based To-Do List Application designed to help users manage personal and work-related tasks efficiently. It provides features like adding tasks, deleting tasks, updating due dates, marking tasks as complete, and saving/loading tasks from a JSON file.
 
 # Features
@@ -57,7 +57,7 @@ Install Python: Ensure Python (3.x recommended) is installed.
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/AhmedSayed26/to-do-list-with-python.git
+# git clone https://github.com/AhmedSayed26/to-do-list-with-python.git
 cd to-do-list
 Run the Program:
 bash
