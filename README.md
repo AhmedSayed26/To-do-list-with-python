@@ -1,6 +1,6 @@
 # This repo created by Ahme Sayed
 # To-Do-List with Python
-This is a Python-based To-Do List Application designed to help users manage personal and work-related tasks efficiently. It provides features like adding tasks, deleting tasks, updating due dates, marking tasks as complete, and saving/loading tasks from a JSON file.
+This project is a Task Management System that allows users to create, manage, and track tasks. The system supports two types of tasks: Personal and Work tasks, with specific attributes like categories for personal tasks and priorities for work tasks. Users can add tasks, delete tasks, update their due dates, mark tasks as completed, and view task details. Additionally, the project saves and loads tasks from a JSON file to persist data between sessions
 
 # Features
 Add Tasks: Create both personal and work tasks with attributes such as title, description, due date, and additional attributes like category (for personal tasks) or priority (for work tasks).
