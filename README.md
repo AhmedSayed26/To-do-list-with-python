@@ -57,7 +57,7 @@ Install Python: Ensure Python (3.x recommended) is installed.
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/AhmedSayed26/to-do-list.git
+git clone https://github.com/AhmedSayed26/to-do-list-with-python.git
 cd to-do-list
 Run the Program:
 bash
